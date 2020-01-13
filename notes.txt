@@ -1,0 +1,19 @@
+Researching best architecture for glass breaking, the buzzwords seem to
+be "rare sound event detection"
+
+Papers
+https://pdfs.semanticscholar.org/298d/02463ab9694f266e2d59430e73757762dd55.pdf
+    Rare sound detection using 1d recurrent convolutional networks
+
+http://www.cs.tut.fi/sgn/arg/dcase2017/documents/challenge_technical_reports/DCASE2017_Cakir_104.pdf
+    convolutional recurrent neural networks for rare sound event detection
+
+https://www.researchgate.net/profile/Fabio_Vesperini/publication/321425618_A_Hierarchic_Multi-scaled_Approach_for_Rare_Sound_Event_Detection/links/5a2164a90f7e9b71dd0310cb/A-Hierarchic-Multi-scaled-Approach-for-Rare-Sound-Event-Detection.pdf
+    A HIERARCHIC MULTI-SCALED APPROACH FOR RARE SOUND EVENT DETECTION
+
+https://ieeexplore.ieee.org/abstract/document/8010445
+    Duration-Controlled LSTM for Polyphonic Sound Event Detection
+
+data set for glass breaking can be found here: https://mivia.unisa.it/datasets/audio-analysis/mivia-audio-events/
+
+and more sound data : https://towardsdatascience.com/a-data-lakes-worth-of-audio-datasets-b45b88cd4ad
